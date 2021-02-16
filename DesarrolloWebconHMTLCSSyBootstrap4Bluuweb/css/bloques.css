@@ -1,0 +1,10 @@
+h1{
+    background: salmon;
+    display: inline-block;
+}
+a{
+    background: sandybrown;
+    display: block;
+    margin: 10px;
+
+}
